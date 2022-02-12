@@ -219,25 +219,7 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
-#if 0
-void mcp3208(void)
-{
-	data= 0x06;
-	HAL_GPIO_WritePin(ADC_CS_GPIO_Port,ADC_CS_Pin,GPIO_PIN_RESET);
 
-	HAL_SPI_TransmitReceive(&hspi2,&data,&buf3,sizeof(buf1),100);
-	//HAL_SPI_Transmit(&hspi2,&data,sizeof(data),100);
-	data = 64;
-	HAL_SPI_TransmitReceive(&hspi2,&data,&buf1,sizeof(buf1),100);	
-	HAL_SPI_TransmitReceive(&hspi2,(uint8_t *)0xFF,&buf2,sizeof(buf2),100);
-
-	
-	HAL_GPIO_WritePin(ADC_CS_GPIO_Port,ADC_CS_Pin,GPIO_PIN_SET);
-	buf3= (buf3&0x0f);
-	
-	adc_val = (((buf1&0x0f)<<8 )|(buf2));
-}
-#endif
 void read_mcp3208(int channel)
 {
 	uint8_t first_byte=0x06,second_byte=0;
