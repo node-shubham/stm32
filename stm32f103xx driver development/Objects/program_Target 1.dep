@@ -1,0 +1,23 @@
+Dependencies for Project 'program', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (.\main.c)(0x62AB00EA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../CODE_PROTOTYPE_TESTED_OK-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/shubham/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/shubham/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-D__UVISION_VERSION="534" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/main.o -MD)
+I (..\CODE_PROTOTYPE_TESTED_OK\stm32f103xx.h)(0x62A56DE5)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6035C7D0)
+I (..\CODE_PROTOTYPE_TESTED_OK\f103_gpio.h)(0x62A5964A)
+F (.\f103_gpio.c)(0x62A5DC4F)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../CODE_PROTOTYPE_TESTED_OK-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/shubham/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/shubham/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-D__UVISION_VERSION="534" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/f103_gpio.o -MD)
+I (..\CODE_PROTOTYPE_TESTED_OK\f103_gpio.h)(0x62A5964A)
+I (..\CODE_PROTOTYPE_TESTED_OK\stm32f103xx.h)(0x62A56DE5)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6035C7D0)
+F (.\f103_gpio.h)(0x62A5964A)()
+F (.\stm32f103xx.h)(0x62A56DE5)()
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x592802CE)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x58255B94)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto -c-gdwarf-3 -Wa,armasm,--pd,"__UVISION_VERSION SETA 534" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"STM32F10X_MD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_md.o)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x61AD9C86)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../CODE_PROTOTYPE_TESTED_OK-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/shubham/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/shubham/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include-D__UVISION_VERSION="534" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/system_stm32f10x.o -MD)
+I (C:\Users\shubham\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x61AD9C86)
+I (RTE\_Target_1\RTE_Components.h)(0x60D16657)
+I (C:\Users\shubham\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626F6E06)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6035C7D0)
+I (C:\Users\shubham\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F6E06)
+I (C:\Users\shubham\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F6E06)
+I (C:\Users\shubham\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F6E06)
+I (C:\Users\shubham\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD9C86)
