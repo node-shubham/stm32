@@ -1,0 +1,11 @@
+../drivers/Src/f401_gpio.c:25:7:gpio_clockcontrol	16	static
+../drivers/Src/f401_gpio.c:97:7:gpio_init	32	static
+../drivers/Src/f401_gpio.c:199:7:gpio_deinit	16	static
+../drivers/Src/f401_gpio.c:236:10:gpio_readinputpin	24	static
+../drivers/Src/f401_gpio.c:258:11:gpio_readinputport	24	static
+../drivers/Src/f401_gpio.c:279:7:gpio_writeoutputpin	16	static
+../drivers/Src/f401_gpio.c:307:7:gpio_writeoutputport	16	static
+../drivers/Src/f401_gpio.c:326:7:gpio_togglepin	16	static
+../drivers/Src/f401_gpio.c:344:7:gpio_irqconfig	16	static
+../drivers/Src/f401_gpio.c:393:7:gpio_irqpriority	24	static
+../drivers/Src/f401_gpio.c:416:7:gpio_irqhandle	16	static

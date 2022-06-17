@@ -1,0 +1,14 @@
+../drivers/Src/f401_usart.c:11:6:usart_clockctrl	16	static
+../drivers/Src/f401_usart.c:48:6:usart_baudrate	40	static
+../drivers/Src/f401_usart.c:110:6:usart_init	24	static
+../drivers/Src/f401_usart.c:206:6:usart_deinit	16	static
+../drivers/Src/f401_usart.c:222:6:usart_senddata	32	static
+../drivers/Src/f401_usart.c:284:6:usart_receivedata	32	static
+../drivers/Src/f401_usart.c:363:9:usart_senddatait	32	static
+../drivers/Src/f401_usart.c:402:9:usart_receivedatait	32	static
+../drivers/Src/f401_usart.c:421:6:usart_irqhandling	32	static
+../drivers/Src/f401_usart.c:724:6:usart_irqconfig	16	static
+../drivers/Src/f401_usart.c:758:6:usart_irqpriority	24	static
+../drivers/Src/f401_usart.c:768:6:usart_peri_ctrl	16	static
+../drivers/Src/f401_usart.c:780:9:usart_flagstatus	16	static
+../drivers/Src/f401_usart.c:789:6:usart_clearflag	16	static

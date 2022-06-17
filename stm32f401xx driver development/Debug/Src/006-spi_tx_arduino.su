@@ -1,0 +1,5 @@
+006-spi_tx_arduino.c:11:6:delay	16	static
+006-spi_tx_arduino.c:22:6:spi2_gpioinit	40	static
+006-spi_tx_arduino.c:43:6:gpio_button	64	static
+006-spi_tx_arduino.c:67:6:spi2_init	40	static
+006-spi_tx_arduino.c:82:5:main	40	static

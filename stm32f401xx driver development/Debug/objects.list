@@ -1,0 +1,7 @@
+"./Src/001-led_toggle.o"
+"./Startup/startup_stm32f401ccyx.o"
+"./drivers/Src/f401_gpio.o"
+"./drivers/Src/f401_i2c.o"
+"./drivers/Src/f401_rcc.o"
+"./drivers/Src/f401_spi.o"
+"./drivers/Src/f401_usart.o"

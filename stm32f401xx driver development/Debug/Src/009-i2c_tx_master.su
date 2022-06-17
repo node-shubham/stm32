@@ -1,0 +1,5 @@
+009-i2c_tx_master.c:14:6:delay	16	static
+009-i2c_tx_master.c:26:6:i2c1_gpioinit	40	static
+009-i2c_tx_master.c:45:6:gpio_button	64	static
+009-i2c_tx_master.c:69:6:i2c1_init	8	static
+009-i2c_tx_master.c:83:5:main	8	static

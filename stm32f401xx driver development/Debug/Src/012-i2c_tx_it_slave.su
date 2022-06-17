@@ -1,0 +1,8 @@
+012-i2c_tx_it_slave.c:17:6:delay	16	static
+012-i2c_tx_it_slave.c:34:6:i2c1_gpioinit	40	static
+012-i2c_tx_it_slave.c:53:6:gpio_button	64	static
+012-i2c_tx_it_slave.c:77:6:i2c1_init	8	static
+012-i2c_tx_it_slave.c:87:5:main	8	static
+012-i2c_tx_it_slave.c:104:6:I2C1_EV_IRQHandler	8	static
+012-i2c_tx_it_slave.c:109:6:I2C1_ER_IRQHandler	8	static
+012-i2c_tx_it_slave.c:115:6:i2c_event_callback	24	static

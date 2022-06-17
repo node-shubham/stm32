@@ -1,0 +1,4 @@
+005-spi_tx.c:11:6:delay	16	static
+005-spi_tx.c:22:6:spi2_gpioinit	40	static
+005-spi_tx.c:43:6:spi2_init	24	static
+005-spi_tx.c:58:5:main	32	static

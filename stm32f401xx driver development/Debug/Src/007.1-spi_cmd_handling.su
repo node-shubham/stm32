@@ -1,0 +1,6 @@
+007.1-spi_cmd_handling.c:33:6:delay	16	static
+007.1-spi_cmd_handling.c:43:6:spi2_gpioinit	40	static
+007.1-spi_cmd_handling.c:64:6:gpio_button	64	static
+007.1-spi_cmd_handling.c:88:6:spi2_init	24	static
+007.1-spi_cmd_handling.c:103:9:spi_verify_resp	16	static
+007.1-spi_cmd_handling.c:113:5:main	72	static
